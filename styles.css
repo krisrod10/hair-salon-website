@@ -1,0 +1,108 @@
+body {
+  display: flexbox;
+  flex-direction: row;
+}
+nav {
+   background:teal;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+    padding: 0 140px;
+    margin-top: 50px;
+    height: 150px;
+    position: relative;
+    
+  }
+  .zizurz {
+    border: 1px solid blue;
+    background:#1A1E33;
+    height: 125px;
+    width: 300px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: absolute;
+    bottom: -40px;
+   
+    left: 20%;
+  /*   right: 0; */
+  /*   bottom: -20px; */
+    
+  }
+  nav ul {
+    border: 1px solid green;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    background:navy;
+    text-emphasis-color: white;
+  }
+  header div.second{
+      border: 8px solid teal;
+      padding: 10px;
+      margin: 100px;
+      text-align:center;
+     height: 100x;
+     width: 1200px;
+     align-items: center;
+    }
+    header div.third{
+       border: 10px solid teal;
+       margin-right: 100px;
+       display: flex;
+       align-items: center;
+       width: 500px;
+       align-items: left;
+       text-align:center ;
+       }
+      header div.fourth{
+        border: 10px solid teal;
+        height: 449px;
+        width: 200px;
+        text-align: center;
+        display: inline-flexbox;
+        justify-content: space-between;
+        margin-left: 100px;
+        height: 665px;
+        padding: 50px;
+        }
+      header div.fifth{
+        margin-left: 100px;
+        border: 10px solid teal;
+        padding:50px ;
+        text-align: center;
+        display: inline-flexbox;
+        justify-content: space-between;
+        height: 590px;
+        }
+      header div.sixth{
+        border: 10px solid teal;
+        margin-left: 100px;
+        text-align:center;
+        display: inline-flexbox;
+        justify-content: space-between;
+        height: 605px;
+        padding: 50px;
+        align-items: center;
+        }
+        header div.seventh{
+          border: 10px solid #5FB3BD;
+          margin-top: 100px;
+          padding: 100px;
+          width: 600px;
+          height: 685px;
+          display: flexbox;
+        }
+        header div.hairstyle{
+          border: 1px solid red;
+         
+         
+        }
+      
+
+      
