@@ -9,10 +9,9 @@ nav {
   background-color:#4C8F96 ;
 }
 nav div.zizurz {
-  border: 1px solid blue;
   background:#222841 ;
   height: 110px;
-  width: 220px;
+  width: 240px;
    display: flex;
   align-items: center;
   justify-content: center;
@@ -85,7 +84,7 @@ header div.second{
   border: 10px solid #5fb3bd;
    margin: 100px;
   align-items: center;
-   width: 1600;
+   width: 1200;
    text-align: left;
    
 }
@@ -131,7 +130,7 @@ header div.second h1{
     display: flex;
     height: 200px;
     width: 200px;
-    margin-left:  250px; 
+    margin-left:  20px; 
     
     
   }
@@ -140,21 +139,22 @@ header div.second h1{
     display: flex;
     height: 200px;
     width: 200px;
-    margin-left: 50px; 
+    margin-left: -30px; 
   }
   .img3{
     border: 5px solid #5FB3BD;
     display: flex;
     height: 200px;
     width: 200px;
-    margin-left: -140px; 
+    margin-left: -100px; 
   }
   .img4{
     border: 5px solid #5FB3BD ;
     display: flex;
     height: 200px;
     width: 200px;
-    margin-left: -340px; 
+    margin-left: -170px; 
+    ;
   }
   .texts{
     display: grid;
@@ -165,25 +165,25 @@ header div.second h1{
    .text1{
      height: 264px;
      width: 200px;
-     margin-left: 350px;
-     text-align: center;
+     margin-left: 110px;
+     text-align:center
 
    }
 .text2{
   height: 250px;
   width: 200px;
-  margin-left: 90px;
+  margin-left: 10px;
 
 }
 .text3{
 height: 200px;
   width: 200px;
-  margin-left: -170px;
+  margin-left: -127px;
 }  
 .text4{
   height: 255px;
   width: 200px;
-  margin-left: -430px;
+  margin-left: -260px;
 }
 .fourth{
   display: grid;
@@ -192,30 +192,36 @@ height: 200px;
 }
 .featured{
   border: 5px solid #5FB3BD  ;
-  height:526px;
+  height:580px;
   width: 500px;
   text-align: center;
-  margin-left: 350px;
+  margin-left: 150px;
+  background: white;
   
 }
 .hairstyle{
   border: 5px solid #5FB3BD ;
   height: 250px;
   width: 480px;
-  background-color: teal;
+  background-color:#519194;
   color: white;
+  margin-left: 190px;
 }
 .add{
   border: 5px solid #5FB3BD  ;
   height: 230px;
   width: 500px;
-  margin-left: -899px;
+  margin-left: -440px;
   margin-top: 300px;
   text-align: center;
-  background-color: teal;
+  background-color: #519194;
   color: white;
   
 }
+body{
+  background-color:azure;
+}
+
 
 
 
